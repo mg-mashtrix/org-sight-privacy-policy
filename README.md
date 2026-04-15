@@ -1,6 +1,6 @@
-#OrgSight Privacy Policy
+# OrgSight Privacy Policy
 
-Last updated: April 2026
+## Last updated: April 2026
 
 1. Overview
 OrgSight is a Chrome extension designed to help Salesforce administrators and developers inspect and analyze metadata directly within their Salesforce environment.
